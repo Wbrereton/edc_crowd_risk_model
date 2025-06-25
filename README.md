@@ -95,8 +95,6 @@ This simulation models real crowd behavior and offers predictive analytics for:
 
 ## Repository
 
-Insert your live repo link here once committed:
-
 `https://github.com/Wbrereton/edc_crowd_risk_model`
 
 ---
